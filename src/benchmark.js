@@ -1,6 +1,6 @@
 var _bwBenchmark = window._bwBenchmark || {
   config: {
-    host: 'bwbenchmark.freelancis.net',
+    host: 'bwbenchmark.paulhugh.es',
     delay: 1000, // wait XXms until start
     bwjs: '/dist/network.min.js',
     bwswf: '/bwTesterLight.swf',
